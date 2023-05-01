@@ -1,6 +1,5 @@
 # Big-Data-Programming-Language
 2022. 2학기 / Python
-
 <br></br>
 ### 개인형 이동수단(PM) 데이터 분석 / 팀 프로젝트
 </br>
